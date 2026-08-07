@@ -1,12 +1,63 @@
-# ISO 27001 Gap Assessment
+# ISO 27001 Compliance Assessment & Remediation Program
 
-## Overview
+## Project Overview
 
-Performed an ISO 27001:2022 compliance assessment and identified security control gaps.
+Conducted an ISO 27001:2022 compliance assessment for a fictional financial services organization operating in a Microsoft 365 and Azure cloud environment.
+
+## Organization Profile
+
+- Organization: ABC Financial Services
+- Industry: Financial Services
+- Employees: 250
+- Environment: Microsoft 365, Microsoft Azure
+
+## Assessment Scope
+
+- Identity & Access Management
+- Cloud Security
+- Vendor Risk Management
+- Compliance & Audit
+- Incident Response
+- Vulnerability Management
+- Business Continuity & Disaster Recovery
+
+## Activities Performed
+
+- ISO 27001 Control Assessment
+- Compliance Gap Analysis
+- Security Control Evaluation
+- Risk Identification
+- Remediation Planning
+- Executive Compliance Reporting
+
+## Key Findings
+
+- 15 Controls Assessed
+- 9 High-Risk Gaps Identified
+- 6 Medium-Risk Gaps Identified
+- Current Compliance Score: 72%
+- Target Compliance Score: 95%
 
 ## Deliverables
 
-- Gap Analysis
-- Control Assessment
+- Executive Summary
+- Gap Assessment Register
 - Remediation Roadmap
-- Compliance Reporting
+- Compliance Reporting Dashboard
+
+## Frameworks Used
+
+- ISO 27001:2022
+- NIST Cybersecurity Framework (CSF)
+- CIS Controls
+
+## Skills Demonstrated
+
+- Governance, Risk & Compliance (GRC)
+- ISO 27001 Compliance Assessment
+- Risk Assessment
+- Compliance Monitoring
+- Security Governance
+- Control Evaluation
+- Remediation Planning
+- Stakeholder Reporting
