@@ -1,0 +1,35 @@
+# Enterprise Cyber Risk Register
+
+## Overview
+
+Developed a cybersecurity risk register containing enterprise cyber, cloud, vendor, compliance and operational risks.
+
+## Scope
+
+- Identity & Access Management
+- Vulnerability Management
+- Third-Party Risk Management
+- Cloud Security
+- Compliance & Audit
+- Incident Response
+- Business Continuity & Disaster Recovery
+
+## Deliverables
+
+- Enterprise Risk Register
+- Risk Scoring Matrix
+- Risk Treatment Plans
+- Risk Ownership Assignment
+
+## Frameworks Used
+
+- ISO 27001:2022
+- NIST Cybersecurity Framework (CSF)
+- CIS Controls
+
+## Key Outcomes
+
+- 34 identified cybersecurity risks
+- Risk prioritization using likelihood and impact scoring
+- Defined mitigation and residual risk strategies
+- Governance and compliance alignment
